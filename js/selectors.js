@@ -21,6 +21,6 @@ function firstListItem(){
 
 
 function ninjaBabySelector(){
-  var guh = $('#ninjaBabySelector').val();
+  var guh = $('#ninjaBabySelector');
   return guh;
 }
