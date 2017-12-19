@@ -10,3 +10,7 @@ function lastImageSeletor(){
 function ninjaBabySelector(){
 
 }
+
+function divSelector(){
+
+}
