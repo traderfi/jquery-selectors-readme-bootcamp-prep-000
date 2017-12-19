@@ -4,7 +4,7 @@ function paragraphSelector() {
   //return this;
 }
 
-function lastImageSeletor(){
+function lastImageSelector(){
   $('div img:last-child');
 }
 
