@@ -14,6 +14,10 @@ function divSelector(){
   return gu;
 }
 
+function firstListItem(){
+  var guh = $('ul li:first-child');
+  return guh;
+}
 
 
 function ninjaBabySelector(){
@@ -23,7 +27,4 @@ function ninjaBabySelector(){
 
 
 
-function firstListItem(){
-  var guh = $('ul li:first-child');
-  return guh;
-}
+
