@@ -10,7 +10,8 @@ function lastImageSelector(){
 }
 
 function ninjaBabySelector(){
-
+  var guh = $('.pic img:first-child');
+  return guh;
 }
 
 function divSelector(){
