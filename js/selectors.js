@@ -9,6 +9,11 @@ function lastImageSelector(){
   return tut;
 }
 
+function divSelector(){
+  var gu = $('.pics');
+  return gu;
+}
+
 
 
 function ninjaBabySelector(){
@@ -16,11 +21,9 @@ function ninjaBabySelector(){
   return guh;
 }
 
-function divSelector(){
-  var gu = $('.pics');
-  return gu;
-}
+
 
 function firstListItem(){
-
+  var guh = $('ul li:pic-list');
+  return guh;
 }
