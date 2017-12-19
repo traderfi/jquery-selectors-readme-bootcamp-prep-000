@@ -12,12 +12,13 @@ function lastImageSelector(){
 
 
 function ninjaBabySelector(){
-  var guh = $('div.pic img:first-child');
+  var guh = $('.pic img:first-child');
   return guh;
 }
 
 function divSelector(){
-
+  var gu = $('.pics');
+  return gu;
 }
 
 function firstListItem(){
