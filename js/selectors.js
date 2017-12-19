@@ -24,6 +24,6 @@ function ninjaBabySelector(){
 
 
 function firstListItem(){
-  var guh = $('ul li:pic-list');
+  var guh = $('ul li:first-child');
   return guh;
 }
