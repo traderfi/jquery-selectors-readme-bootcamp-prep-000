@@ -9,8 +9,10 @@ function lastImageSelector(){
   return tut;
 }
 
+
+
 function ninjaBabySelector(){
-  var guh = $('.pic img:first-child');
+  var guh = $('div.pic img:first-child');
   return guh;
 }
 
