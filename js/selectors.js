@@ -4,5 +4,9 @@ function paragraphSelector() {
 }
 
 function lastImageSeletor(){
-  
+
+}
+
+function ninjaBabySelector(){
+
 }
